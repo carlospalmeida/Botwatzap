@@ -1,0 +1,20 @@
+Date: 1/12/2022
+Time: 21:0
+Phone Number: +5512981513149
+Message: teste bot python
+--------------------
+Date: 1/12/2022
+Time: 21:2
+Phone Number: +5512981513149
+Message: teste bot python,não responder
+--------------------
+Date: 1/12/2022
+Time: 21:4
+Phone Number: +5512988297175
+Message: teste bot python,não responder
+--------------------
+Date: 1/12/2022
+Time: 21:6
+Phone Number: +5512988297175
+Message: nem acredito que funcionou kkkk
+--------------------
